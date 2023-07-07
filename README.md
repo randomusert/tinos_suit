@@ -7,4 +7,4 @@ note: you can contribute by making pull requests and i can puul those
 
 
 # os versions and builds
-[tin_1](https://github.com/randomusert/tinv1]
+[tin 1](https://github.com/randomusert/tinv1)
